@@ -1,0 +1,16 @@
+username=NeoBechstein
+password=
+
+t-color = 38;5;108
+a-color = 38;5;106
+s-color = 38;5;59
+l-color = 38;5;102
+
+T-color = 38;5;238
+A-color = 38;5;238
+L-color = 38;5;238
+
+~/1.1.06.txt
+
+key0x5A = ~/1.1.06.txt -status='► Now playing: "'%t'" by '%a' // via 
+Shell.FM v0.7 ♩ ♪ ♫'
